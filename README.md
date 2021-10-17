@@ -1,3 +1,5 @@
+#### * Repositório do projeto "cities-api" proposto pela DIO, no Bootcamp Everis Quality Assurance Beginner 3, onde foi proposto a criação de uma API Rest de consulta de cidades do Brasil com dados comparativos e a criação de um serviço para o cálculo de distância entre as cidades.
+
 
 # Cities API
 
