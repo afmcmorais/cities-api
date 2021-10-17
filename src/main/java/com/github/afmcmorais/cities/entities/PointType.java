@@ -1,4 +1,4 @@
-package com.github.afmcmorais.citiesapi.cities;
+package com.github.afmcmorais.cities.entities;
 
 import org.hibernate.HibernateException;
 import org.hibernate.engine.spi.SharedSessionContractImplementor;

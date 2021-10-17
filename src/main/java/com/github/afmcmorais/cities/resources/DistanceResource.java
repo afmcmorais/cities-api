@@ -1,6 +1,6 @@
-package com.github.afmcmorais.citiesapi.distances;
+package com.github.afmcmorais.cities.resources;
 
-import com.github.afmcmorais.citiesapi.distances.service.DistanceService;
+import com.github.afmcmorais.cities.service.DistanceService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;

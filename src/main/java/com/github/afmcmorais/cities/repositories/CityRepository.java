@@ -1,5 +1,6 @@
-package com.github.afmcmorais.citiesapi.cities;
+package com.github.afmcmorais.cities.repositories;
 
+import com.github.afmcmorais.cities.entities.City;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

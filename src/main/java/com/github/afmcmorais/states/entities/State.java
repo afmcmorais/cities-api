@@ -1,6 +1,6 @@
-package com.github.afmcmorais.citiesapi.states;
+package com.github.afmcmorais.states.entities;
 
-import com.github.afmcmorais.citiesapi.countries.Country;
+import com.github.afmcmorais.countries.entities.Country;
 import java.util.List;
 import javax.persistence.*;
 

@@ -1,5 +1,7 @@
-package com.github.afmcmorais.citiesapi.states;
+package com.github.afmcmorais.states.resources;
 
+import com.github.afmcmorais.states.entities.State;
+import com.github.afmcmorais.states.repositories.StateRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

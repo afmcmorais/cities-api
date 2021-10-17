@@ -1,5 +1,7 @@
-package com.github.afmcmorais.citiesapi.cities;
+package com.github.afmcmorais.cities.resources;
 
+import com.github.afmcmorais.cities.entities.City;
+import com.github.afmcmorais.cities.repositories.CityRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,10 +1,10 @@
-package com.github.afmcmorais.citiesapi.distances.service;
+package com.github.afmcmorais.cities.service;
 
 import java.util.Arrays;
 import java.util.List;
 
-import com.github.afmcmorais.citiesapi.cities.City;
-import com.github.afmcmorais.citiesapi.cities.CityRepository;
+import com.github.afmcmorais.cities.entities.City;
+import com.github.afmcmorais.cities.repositories.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.geo.Point;

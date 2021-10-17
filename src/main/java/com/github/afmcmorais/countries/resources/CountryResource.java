@@ -1,7 +1,7 @@
-package com.github.afmcmorais.citiesapi.countries;
+package com.github.afmcmorais.countries.resources;
 
-import com.github.afmcmorais.citiesapi.countries.Country;
-import com.github.afmcmorais.citiesapi.countries.repository.CountryRepository;
+import com.github.afmcmorais.countries.entities.Country;
+import com.github.afmcmorais.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

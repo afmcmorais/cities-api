@@ -1,4 +1,4 @@
-package com.github.afmcmorais.citiesapi;
+package com.github.afmcmorais;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
